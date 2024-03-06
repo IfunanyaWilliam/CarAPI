@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\bin\Debug\net6.0\CarAPI.Service.deps.json
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\bin\Debug\net6.0\CarAPI.Service.dll
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\bin\Debug\net6.0\CarAPI.Service.pdb
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\bin\Debug\net6.0\CarAPI.Data.dll
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\bin\Debug\net6.0\CarAPI.Domain.dll
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\bin\Debug\net6.0\CarAPI.Data.pdb
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\bin\Debug\net6.0\CarAPI.Domain.pdb
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.AssemblyInfo.cs
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.csproj.CopyComplete
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.dll
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\refint\CarAPI.Service.dll
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\CarAPI.Service.pdb
+C:\Users\USER\Documents\Ifunanya\Projects\CarAPI\CarAPI\CarAPI.Service\obj\Debug\net6.0\ref\CarAPI.Service.dll
